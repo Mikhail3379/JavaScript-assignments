@@ -1,5 +1,5 @@
  "use strict" ;
- // wrte a function to take a positive integer and return the largest power of 2
+ // write a function to take a positive integer and return the largest power of 2
 // that is less than or equal to this integer 
     // example: 5 -> 4
     function nearestPowerOfTwo(n) {
